@@ -3,8 +3,8 @@ html, body {
 }
 
 body {
-  background: #0f3854;
-  background: radial-gradient(ellipse at center,  #0a2e38  0%, #000000 70%);
+  background: #a4c6ff;
+  background: radial-gradient(ellipse at center,  #3300ff  0%, #a4c6ff 80%);
   background-size: 100%;
 }
 
@@ -14,7 +14,7 @@ p {
 }
 
 #clock {
-  font-family: 'Share Tech Mono', monospace;
+  font-family: 'Times New Roman', serif;
   color: #ffffff;
   text-align: center;
   position: absolute;
